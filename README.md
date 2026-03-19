@@ -32,3 +32,8 @@ make
 числами):  
    
 [https://github.com/alxnrayyy/lab2-task1-gr10-yurchenko](https://github.com/alxnrayyy/lab2-task1-gr10-yurchenko)
+
+3. **[Отчёт по лабораторной работе]**  
+   Google Docs с полным отчётом:  
+   
+[https://docs.google.com/document/d/15SmUQMqHtGFfHkw_ZoARAO1yjQdDcr7r-nBbWM_e5mc/edit?hl=ru&tab=t.0](https://docs.google.com/document/d/15SmUQMqHtGFfHkw_ZoARAO1yjQdDcr7r-nBbWM_e5mc/edit?hl=ru&tab=t.0)
