@@ -1,0 +1,22 @@
+# Object files
+*.o
+*.obj
+*.a
+*.so
+
+# Executables
+program
+*.exe
+*.out
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build directories
+build/
+dist/
